@@ -1,0 +1,2 @@
+Hi this is my first file inside GIT bash trying to learn all the commands that xcan help  me in the future 
+
